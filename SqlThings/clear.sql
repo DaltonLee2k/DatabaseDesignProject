@@ -1,0 +1,10 @@
+TRUNCATE TABLE Season_off_stats;
+TRUNCATE TABLE Season_def_stats;
+TRUNCATE TABLE Coaches;
+TRUNCATE TABLE Stadiums;
+TRUNCATE TABLE Games;
+TRUNCATE TABLE Team_season;
+TRUNCATE TABLE Yearly_awards;
+TRUNCATE TABLE Players;
+TRUNCATE TABLE Team;
+TRUNCATE TABLE League;

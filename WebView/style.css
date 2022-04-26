@@ -1,0 +1,71 @@
+
+div {text-align: center;}
+
+body {
+    background-color: beige;
+
+}
+p {
+  font-size: larger;
+
+}
+
+td {
+  background-color: white;
+  border-color: burlywood;
+
+}
+
+button {
+    padding: 10px 20px;
+    background-color: whitesmoke;
+}
+
+input[type=submit] {
+  border: 1px solid burlywood;
+  background-color: white;
+  padding: 5px 10px;
+
+}
+
+input[type=number] {
+  border: 1px solid burlywood;
+  background-color: white;
+  padding: 5px 10px;
+
+}
+
+select {
+  border: 1px solid burlywood;
+  background-color: white;
+  padding: 5px 10px ;
+}
+
+  .topnav {
+    background-color: white;
+    border: 1px solid burlywood;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    border: 1px solid burlywood;
+    color: black;
+    text-align: center;
+    padding: 8px 10px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: burlywood;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: burlywood;
+    color: white;
+  }
