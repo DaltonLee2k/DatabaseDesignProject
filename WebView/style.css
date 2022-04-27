@@ -13,7 +13,7 @@ p {
 td {
   background-color: white;
   border-color: burlywood;
-
+  
 }
 
 button {
@@ -53,7 +53,7 @@ select {
     border: 1px solid burlywood;
     color: black;
     text-align: center;
-    padding: 8px 10px;
+    padding: 10px 20px;
     text-decoration: none;
     font-size: 17px;
   }
